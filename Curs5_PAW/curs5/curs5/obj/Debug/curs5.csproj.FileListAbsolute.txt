@@ -1,0 +1,10 @@
+C:\Users\Cristian\Desktop\curs5\curs5\bin\Debug\curs5.exe.config
+C:\Users\Cristian\Desktop\curs5\curs5\bin\Debug\curs5.exe
+C:\Users\Cristian\Desktop\curs5\curs5\bin\Debug\curs5.pdb
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.Form1.resources
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.Properties.Resources.resources
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.exe
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.pdb
+C:\Users\Cristian\Desktop\curs5\curs5\obj\Debug\curs5.Form2.resources
