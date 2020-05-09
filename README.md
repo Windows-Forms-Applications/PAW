@@ -14,3 +14,5 @@ Seminar 7 - Programarea aplicatiilor Windows (C#): https://youtu.be/Rce24Tp03EA
 Curs 8 - Programarea aplicatiilor Windows (C#): https://youtu.be/gDcOZqyCP6M
 
 Seminar 8 - Programarea aplicatiilor Windows (C#): https://youtu.be/NqJVOnCCICw
+
+Curs 10 - Programarea aplicatiilor Windows (C#): https://youtu.be/TMTS4JfT_Lc
